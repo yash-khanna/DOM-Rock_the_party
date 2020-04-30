@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://lh3.googleusercontent.com/p/AF1QipN-UVzvHVpGp8_MBnIuUYdx30fUAbMw7318qSmr=s144-w107-h142-p-k-no");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+;
+
+#color-overlay {
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    text-align: center;
+    color: white;
+}
+
+#text-bg {
+    line-height: 100vh;
+    font-size: 80px;
+    margin: 0;
+    font-family: verdana;
+}
